@@ -1,0 +1,7 @@
+*.jar
+*.aar
+*.pom
+*.pyc
+*.zip
+.venv/
+.vscode/
